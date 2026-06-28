@@ -1,5 +1,5 @@
 ---
-title: Forse un mattino andando in un’aria di vetro
+title: Forse un mattino andando in un'aria di vetro
 description: >-
   Forse un mattino andando in un'aria di vetro, arida, rivolgendomi vedrò
   compirsi il miracolo: il nulla alle mie spalle, il vuoto dietro di me, con un

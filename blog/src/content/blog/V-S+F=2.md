@@ -10,7 +10,16 @@ tags:
 heroImage: ../../assets/blog/images/P_20161028_182200.jpg
 ---
 
-> "Imbrattai di colpo la carta dei giorni triti spruzzandovi colore da un bicchiere; su un piatto di gelatina mostrai gli zigomi sghembi dell'oceano. Sulla squama di un pesce di latta lessi gli inviti di nuove labbra. Ma voi potreste suonare un notturno su un flauto di grondaie?"
+> "Imbrattai di colpo la carta dei giorni triti
+> spruzzandovi colore da un bicchiere;
+> su un piatto di gelatina mostrai
+> gli zigomi sghembi dell'oceano.
+> Sulla squama di un pesce di latta
+> lessi gli inviti di nuove labbra.
+> Ma voi
+> potreste
+> suonare un notturno
+> su un flauto di grondaie?"
 > 
 > 1913 Vladimir Majakovskij"
 > 
@@ -26,4 +35,4 @@ Quello che ci dice Leonhard è una legge universale, democratica e rigida (anche
 
 Come Volodja, anche Euler ha lavorato molto in Russia, e come Volodja, trovo che le sue parole siano di una bellezza estetica  suprema, una cosa già scritta nel sogno di un pazzo, che però aspettava di essere scritta. Perché il numero 2? ve lo siete chiesti? Che anche i solidi, come noi, soffrano di quella epidemia chiamata "natura umana" o "dualismo"? Mah. Non voglio assolutamente che il mio venga visto come un misero modo di convincere che la matematica sia bella e facile, a volte è un incubo, però di sicuro sarebbe più umana se venisse spiegata dando un po' di poesia e parlando un po' della vita, di noi, bizzarre persone sospese tra due mondi, entrambi i quali sono pieni di bellezza nascosta qua e là.
 
-> “Uno dei grandi malintesi sulla matematica che commettiamo nelle nostre aule di scuola è che il professore sembra sempre conoscere la risposta di ogni problema che si discute. Ciò dà agli studenti l’idea che da qualche parte c’è un librone con tutte le risposte corrette a tutte le domande interessanti, che gli insegnanti ce l’hanno, e basterebbe trovarlo per avere tutto a posto. Questo è davvero l’opposto della vera natura della matematica.”  Leon Henkin
+> “Uno dei grandi malintesi sulla matematica che commettiamo nelle nostre aule di scuola è che il professore sembra sempre conoscere la risposta di ogni problema che si discute. Ciò dà agli studenti l'idea che da qualche parte c'è un librone con tutte le risposte corrette a tutte le domande interessanti, che gli insegnanti ce l'hanno, e basterebbe trovarlo per avere tutto a posto. Questo è davvero l'opposto della vera natura della matematica.”  Leon Henkin

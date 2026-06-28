@@ -1,10 +1,9 @@
 ---
 title: "Alfredo"
-description: "Tornavamo da Bologna, tra il bollore serale e le porcate comperate alla stazione che costituivano la nostra cena, il treno era affollato come al solito, siamo in piedi davanti alla porta quando un uomo si sbraccia da metà vagone, come se avesse visto suo fratello dietro di noi..."
+description: "Tornavamo da Bologna, tra il bollore serale e le porcate comperate alla stazione"
 categories: 
   - "parole-pensieri"
-pubDate: 2013-11-29T00:00:00.000Z
-draft: true
+pubDate: 2013-03-27T09:05:09.000Z
 ---
 
 Ad Alfredo.

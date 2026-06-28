@@ -16,8 +16,8 @@ Salgo le scale.
 
 Ogni mia emozione è accompagnata dal ticchettio sul legno dei tasti e dal frusciare del mantice, come onda del mare al crepuscolo.
 
-Sono una schiera angelica, sono un mortaio fumante, sono l’incubo di un viandante, sono l’eterno che si fa parola.
+Sono una schiera angelica, sono un mortaio fumante, sono l'incubo di un viandante, sono l'eterno che si fa parola.
 
-I pianisti guardano in faccia i loro uditori, io gli do le spalle, e loro le danno a me. Non interessa il mio volto, né la mia voce, né la mia lingua, né il mio lungo respiro, perché io sono l’organista.
+I pianisti guardano in faccia i loro uditori, io gli do le spalle, e loro le danno a me. Non interessa il mio volto, né la mia voce, né la mia lingua, né il mio lungo respiro, perché io sono l'organista.
 
 > Dedicata a Piero l'organista

@@ -3,8 +3,7 @@ title: "Coccinella"
 description: "Esperienza di una coccinella, capitata il 20 dicembre 2008. Dedicata a chiunque ha sofferto per un malinteso, a chi riesce a capire, ai miei amici e alla distanza che unisce. Non dedicata invece a chi crede che l'uomo non sia meno bestiale di un anellide o di un paramecio."
 categories: 
   - "parole-pensieri"
-pubDate: 2013-11-29T00:00:00.000Z
-draft: true
+pubDate: 2013-03-27T09:09:12.000Z
 ---
 
 _Esperienza di una coccinella, capitata il 20 dicembre 2008_ _Dedicata a chiunque ha sofferto per un malinteso, a chi riesce a capire, ai miei amici e alla distanza che unisce.  Non dedicata invece a chi crede che l'uomo non sia meno bestiale di un anellide o di un paramecio._

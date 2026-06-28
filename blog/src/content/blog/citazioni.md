@@ -1,27 +1,12 @@
 ---
-title: "citazioni"
+title: "Citazioni"
 description: "Una raccolta di citazioni"
 categories: 
   - "parole-pensieri"
-pubDate: 2013-11-29T00:00:00.000Z
-draft: true
+pubDate: 2013-11-27T09:08:35.000Z
 ---
 
-Cosa è “normale”? Normale è indossare abiti che compri
-
-solo per andarci al lavoro e guidare attraverso il traffico
-
-una macchina che devi ancora finire di pagare, cosicché
-
-tu possa conservare quel lavoro che ti serve per pagare
-
-quei vestiti, quella macchina e anche quella casa che
-
-lasci vuota tutto il giorno, proprio perché devi andare al
-
-lavoro per guadagnare quel tanto che serve per potertela
-
-permettere.
+Cosa è “normale”? Normale è indossare abiti che compri solo per andarci al lavoro e guidare attraverso il traffico una macchina che devi ancora finire di pagare, cosicché tu possa conservare quel lavoro che ti serve per pagare quei vestiti, quella macchina e anche quella casa che lasci vuota tutto il giorno, proprio perché devi andare al lavoro per guadagnare quel tanto che serve per potertela permettere.
 
 (Ellen DeGeneres)
 
@@ -29,9 +14,9 @@ Ci va una bella forza per lanciare
 
 un piano a coda lunga in alto mare.
 
-E dove c’è un piano
+E dove c'è un piano
 
-intorno c’è sempre gente che fa baccano,
+intorno c'è sempre gente che fa baccano,
 
 ci sono occhi che si cercano
 
@@ -63,93 +48,39 @@ ogni famiglia infelice è invece disgraziata a modo suo.
 
 (Lev Tolstoj, “Anna Karenina”)
 
-Ma come stabilire il momento esatto in cui comincia una
+Ma come stabilire il momento esatto in cui comincia una storia? Tutto è sempre cominciato già da prima, la prima riga della prima pagina d'ogni romanzo rimanda a qualcosa che è già successo fuori dal libro. Oppure la vera storia è quella che comincia dieci o cento pagine più avanti, e tutto ciò che precede è solo un prologo. Le vite degli individui della specie umana formano un intreccio continuo, in cui ogni tentativo d'isolare un pezzo di vissuto che abbia un senso separatamente dal resto – per esempio, l'incontro di due persone che diventerà decisivo per entrambi – deve tener conto che ciascuno dei due porta con sé un tessuto di fatti ambienti altre persone, e che dall'incontro deriveranno a loro volta altre storie che si separeranno dalla loro storia comune.
 
-storia? Tutto è sempre cominciato già da prima, la prima
+(Italo Calvino, “Se una notte d'inverno un viaggiatore”)
 
-riga della prima pagina d’ogni romanzo rimanda a
-
-qualcosa che è già successo fuori dal libro. Oppure la vera
-
-storia è quella che comincia dieci o cento pagine più
-
-avanti, e tutto ciò che precede è solo un prologo. Le vite
-
-degli individui della specie umana formano un intreccio
-
-continuo, in cui ogni tentativo d’isolare un pezzo di vissuto
-
-che abbia un senso separatamente dal resto – per esempio,
-
-l’incontro di due persone che diventerà decisivo per
-
-entrambi – deve tener conto che ciascuno dei due porta con
-
-sé un tessuto di fatti ambienti altre persone, e che
-
-dall’incontro deriveranno a loro volta altre storie che si
-
-separeranno dalla loro storia comune.
-
-(Italo Calvino, “Se una notte d’inverno un viaggiatore”)
-
-La cultura è uno strumento usato dai professori per creare
-
-professori i quali, quando verrà il loro turno, creeranno
-
-professori.
+La cultura è uno strumento usato dai professori per creare professori i quali, quando verrà il loro turno, creeranno professori.
 
 (Simone Weil)
 
-Tutto quello che a scuola viene definito “ovvio” diventa
-
-sempre meno ovvio quando si comincia ad indagare
-
-l’universo. Ad esempio, non ci sono solidi nell’universo:
-
-non c’è neppure l’idea d’una figura geometrica solida. Non
-
-ci sono “continuum” assoluti. Non ci sono superfici. Non ci
-
-sono linee rette.
+Tutto quello che a scuola viene definito “ovvio” diventa sempre meno ovvio quando si comincia ad indagare l'universo. Ad esempio, non ci sono solidi nell'universo: non c'è neppure l'idea d'una figura geometrica solida. Non ci sono “continuum” assoluti. Non ci sono superfici. Non ci sono linee rette.
 
 (R. Buckminster Fuller)
 
-È sempre meglio dire la verità. Ovviamente, questo vale
-
-nel caso non siate dei bugiardi eccezionalmente bravi.
+È sempre meglio dire la verità. Ovviamente, questo vale nel caso non siate dei bugiardi eccezionalmente bravi.
 
 (Jerome K. Jerome)
 
-Qualsiasi imbecille è in grado di dire la verità; ci vogliono
-
-uomini di un certo intelletto per mentire con cognizione.
+Qualsiasi imbecille è in grado di dire la verità; ci vogliono uomini di un certo intelletto per mentire con cognizione.
 
 (Samuel Butler)
 
-La finzione è obbligata a tener conto delle possibilità; la
-
-verità no.
+La finzione è obbligata a tener conto delle possibilità; la verità no.
 
 (Mark Twain)
 
-Il contrario di una proposizione vera è una proposizione
-
-falsa. Ma il contrario di una profonda verità può ben
-
-essere un’altra profonda verità.
+Il contrario di una proposizione vera è una proposizione falsa. Ma il contrario di una profonda verità può ben essere un'altra profonda verità.
 
 (Niels Bohr)
 
-“Tutti i limiti, specialmente quelli nazionali,
-
-sono contrari alla natura della matematica”
+“Tutti i limiti, specialmente quelli nazionali, sono contrari alla natura della matematica”
 
 (David Hilbert)
 
-Il Numero è la guida delle forme e delle idee,
-
-e il creatore degli dei e dei demoni
+Il Numero è la guida delle forme e delle idee, e il creatore degli dei e dei demoni
 
 (Giamblico)
 
@@ -159,9 +90,9 @@ possa essere Vero, ma senza avere la possibilità di provarlo tale.
 
 (Dan Brown)
 
-Prendi una donna, dille che l’ami,
+Prendi una donna, dille che l'ami,
 
-scrivile canzoni d’amore
+scrivile canzoni d'amore
 
 (Marco Ferradini)
 
@@ -169,29 +100,11 @@ Penso, dunque sono.
 
 (Renè Descartes)
 
-…Allora perché raccontarlo? Vi rendete conto che tutto ciò non ha
-
-nessun interesse? Dovete capire che vi sono due mondi: quello che è
-
-senza che se ne parli, e lo si chiama mondo reale, perché non si ha
-
-nessun bisogno di parlarne per vederlo. L'altro è il mondo dell'arte, e di
-
-questo bisogna parlarne, perché altrimenti non esisterebbe…
+…Allora perché raccontarlo? Vi rendete conto che tutto ciò non ha nessun interesse? Dovete capire che vi sono due mondi: quello che è senza che se ne parli, e lo si chiama mondo reale, perché non si ha nessun bisogno di parlarne per vederlo. L'altro è il mondo dell'arte, e di questo bisogna parlarne, perché altrimenti non esisterebbe…
 
 (Oscar Wilde)
 
-Il mondo che progredisce è necessariamente diviso in due classi: quelli
-
-che prendono il meglio di ciò che è disponibile e se lo godono, e quelli
-
-che vogliono qualcosa di meglio e cercano di crearlo. Senza queste due
-
-classi il mondo stagnerebbe: sono la condizione stessa del progresso, sia
-
-l’una sia l’altra. Se non ci fosse nessuno scontento di ciò che ha, il
-
-mondo non otterrebbe mai alcun miglioramento.
+Il mondo che progredisce è necessariamente diviso in due classi: quelli che prendono il meglio di ciò che è disponibile e se lo godono, e quelli che vogliono qualcosa di meglio e cercano di crearlo. Senza queste due classi il mondo stagnerebbe: sono la condizione stessa del progresso, sia l'una sia l'altra. Se non ci fosse nessuno scontento di ciò che ha, il mondo non otterrebbe mai alcun miglioramento.
 
 (Florence Nightingale)
 
@@ -209,9 +122,9 @@ _dimensione e natura._
 
 (Eudosso di Cnido)
 
-_Nessuna opinione, vera o falsa, ma contraria all’opinione dominante e_
+_Nessuna opinione, vera o falsa, ma contraria all'opinione dominante e_
 
-_generale, si è mai stabilita nel mondo istantaneamente e in forza d’una_
+_generale, si è mai stabilita nel mondo istantaneamente e in forza d'una_
 
 _dimostrazione lucida e palpabile, ma a forza di ripetizioni e quindi di_
 
@@ -219,11 +132,11 @@ _assuefazione._
 
 (Giacomo Leopardi)
 
-_Seriamente, il fatto che un’opinione sia largamente accettata, non è_
+_Seriamente, il fatto che un'opinione sia largamente accettata, non è_
 
 _prova, peggio, non costituisce nemmeno una maggiore probabilità, che_
 
-_l’opinione sia corretta._
+_l'opinione sia corretta._
 
 (Arthur Schopenhauer)
 
@@ -239,7 +152,7 @@ _«Non so», rispose Alice. «Ho perso il conto.»._
 
 (da “Attraverso lo Specchio”)
 
-_L’educazione è una bella cosa; tuttavia è bene ricordare, almeno una volta_
+_L'educazione è una bella cosa; tuttavia è bene ricordare, almeno una volta_
 
 _ogni tanto, che nulla di ciò che è veramente importante conoscere può_
 
@@ -247,11 +160,11 @@ _essere insegnato._
 
 (Oscar Wilde)
 
-_È preferibile l’aver amato e aver perso l’amore al non aver amato affatto_.
+_È preferibile l'aver amato e aver perso l'amore al non aver amato affatto_.
 
 (Lord Alfred Tennyson)
 
-_In molte delle civiltà meno formaliste dell’Orlo Esterno Est della Galassia, la Guida_
+_In molte delle civiltà meno formaliste dell'Orlo Esterno Est della Galassia, la Guida_
 
 _Galattica per gli Autostoppisti ha già soppiantato la Grande Enciclopedia_
 
@@ -263,7 +176,7 @@ _alquanto imprecise, ha due importanti vantaggi rispetto alla più vecchia e pi�
 
 _accademica Enciclopedia._
 
-_Uno, costa un po’ meno; due, ha stampate in copertina, a grandi caratteri che_
+_Uno, costa un po' meno; due, ha stampate in copertina, a grandi caratteri che_
 
 _ispirano fiducia, le parole NON FATEVI PRENDERE DAL PANICO._
 
@@ -303,21 +216,13 @@ _Se ho visto più lontano è perché sedevo sulle spalle di giganti._
 
 (Isaac Newton)
 
-_La battaglia di Waterloo è stata vinta_
-
-_sui campi da gioco di Eton_
+La battaglia di Waterloo è stata vinta sui campi da gioco di Eton
 
 (Arthur Wellesley, duca di Wellington)
 
-_Quelli della vecchia scuola si sono stupiti di_
+Quelli della vecchia scuola si sono stupiti di vederci tenere le nostre assisi in piena Sorbona; essi hanno sentito che noi siamo ribelli, e che finiremo per gettare a terra l'edificio tarlato.
 
-_vederci tenere le nostre assisi in piena Sorbona;_
-
-_essi hanno sentito che noi siamo ribelli,_
-
-_e che finiremo per gettare a terra l’edificio tarlato._
-
-_Cela est vrai, Messieurs: nous sommes des rebelles_
+Cela est vrai, Messieurs: nous sommes des rebelles
 
 (Pierre de Coubertin, Congresso di Parigi, 1894)
 
@@ -355,7 +260,7 @@ _della dinastia dei Ming_
 
 (F. Battiato)
 
-_Quando il mio amore giura d’essere pura verità io le credo,_
+_Quando il mio amore giura d'essere pura verità io le credo,_
 
 _sebbene sappia che sta mentendo_
 
@@ -367,13 +272,13 @@ _La verità è la verità, fino alla resa dei conti_
 
 Conosco la metà di voi soltanto a metà; e nutro, per meno della metà di
 
-voi, metà dell’affetto che meritate.
+voi, metà dell'affetto che meritate.
 
 (Bilbo Baggins / J. R. R. Tolkien)
 
-Il mondo è diviso in due classi: quelli che credono l’incredibile, e quelli
+Il mondo è diviso in due classi: quelli che credono l'incredibile, e quelli
 
-che realizzano l’improbabile.
+che realizzano l'improbabile.
 
 (Oscar Wilde)
 
@@ -389,7 +294,7 @@ nei miei sogni, approdate
 
 adesso al mio risveglio.
 
-L’amore basta all’amore.
+L'amore basta all'amore.
 
 La terra ama sentire i vostri piedi nudi.
 
