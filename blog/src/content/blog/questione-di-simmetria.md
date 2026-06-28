@@ -20,7 +20,7 @@ La Simmetria e l'Asimmetria, con il loro essere insieme delle parti dell'esisten
 
 Solamente simmetrici.
 
-[![12142089\_422679601259456\_15622787\_n](../../assets/blog/images/12142089_422679601259456_15622787_n.jpg)](http://blog.favorido.it/wp-content/uploads/2015/10/12142089_422679601259456_15622787_n.jpg)
+![Simmetria](../../assets/blog/images/12142089_422679601259456_15622787_n.jpg)
 
 .icirtemmis etnemaloS
 

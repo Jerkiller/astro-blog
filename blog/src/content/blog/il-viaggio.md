@@ -51,4 +51,4 @@ Partenza da Mirano (Ve)
 - _Direz. N Checkpoint: Località Giare di Mira (Ve)._ Facendo la strada Romea, ci dirigeremo tristi ma felici dell’esperienza vissuta verso casa.
 - _Direz. N Checkpoint: Arrivo a Mirano (Ve)._ Tappa da Cerèo?
 
-\[googlemaps https://maps.google.it/maps/ms?msa=0&msid=207678427374107683436.0004d3e6a79a21d3dfca4&hl=it&ie=UTF8&t=m&ll=43.977638,12.214774&spn=3.034832,3.602617&output=embed&w=500&h=500\]
+<iframe src="https://www.google.com/maps/d/embed?mid=1K3VwUOQZEGM53GX1W8ew5vaCkvY&hl=it&ehbc=2E312F" width="640" height="480"></iframe>
