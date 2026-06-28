@@ -9,7 +9,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 export default defineConfig({
 	site: 'https://example.com',
 	adapter: cloudflare({
-		imageService: 'passthrough',
+		imageService: 'compile',
 	}),
 	integrations: [mdx(), sitemap()],
 	fonts: [
