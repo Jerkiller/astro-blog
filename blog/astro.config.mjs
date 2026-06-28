@@ -8,7 +8,9 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://example.com',
-	adapter: cloudflare(),
+	adapter: cloudflare({
+		imageService: 'passthrough',
+	}),
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
